@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E81AC,100:88C0D0&height=190&section=header&text=Luis%20Manuel%20%C2%B7%20@SanteRV&fontColor=ffffff&fontSize=40&desc=Systems%20Engineering%20Student%20%40%20UNHEVAL%20%E2%80%94%20Hu%C3%A1nuco,%20Per%C3%BA&descSize=17&descAlignY=64&animation=fadeIn" alt="header" />
 </p>
 
+<!-- ============================ HERO ART ============================ -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SanteRV/SanteRV/main/assets/arte-codigo.svg" width="340" alt="arte-codigo" />
+</p>
+
 <!-- ============================ TYPING ============================ -->
 <p align="center">
   <a href="https://github.com/SanteRV">
