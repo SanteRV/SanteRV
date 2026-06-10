@@ -1,12 +1,12 @@
 <!-- ============================ HEADER BANNER ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E81AC,100:88C0D0&height=190&section=header&text=Luis%20Manuel%20%C2%B7%20@SanteRV&fontColor=ffffff&fontSize=40&desc=Systems%20Engineering%20Student%20%40%20UNHEVAL%20%E2%80%94%20Hu%C3%A1nuco,%20Per%C3%BA&descSize=17&descAlignY=64&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E81AC,100:88C0D0&height=190&section=header&text=Luis%20Manuel%20%C2%B7%20@SanteRV&fontColor=ffffff&fontSize=40&desc=Bachelor%20in%20Systems%20Engineering%20%40%20UNHEVAL%20%E2%80%94%20Hu%C3%A1nuco,%20Per%C3%BA&descSize=17&descAlignY=64&animation=fadeIn" alt="header" />
 </p>
 
 <!-- ============================ TYPING ============================ -->
 <p align="center">
   <a href="https://github.com/SanteRV">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=600&color=5E81AC&center=true&vCenter=true&width=720&lines=sante%40unheval%3A~%24+whoami;%E2%9E%9C+Systems+Engineering+Student;%E2%9E%9C+Estudiante+de+Ingenier%C3%ADa+de+Sistemas;%E2%9E%9C+Building+data+%2B+web+projects;%E2%9E%9C+Construyendo+proyectos+de+datos+y+web;%E2%9E%9C+Open+to+collaboration+%2F+Abierto+a+colaborar" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=600&color=5E81AC&center=true&vCenter=true&width=720&lines=sante%40unheval%3A~%24+whoami;%E2%9E%9C+Systems+Engineering+Graduate+(B.Sc.);%E2%9E%9C+Bachiller+en+Ingenier%C3%ADa+de+Sistemas;%E2%9E%9C+Building+data+%2B+web+projects;%E2%9E%9C+Construyendo+proyectos+de+datos+y+web;%E2%9E%9C+Open+to+collaboration+%2F+Abierto+a+colaborar" alt="typing" />
   </a>
 </p>
 
@@ -15,16 +15,16 @@
 
 ### `$ cat about.md`
 
-- 🎓 Estudiante de **Ingeniería de Sistemas** — UNHEVAL · *Systems Engineering student*
-- 📍 Huánuco, Perú 🇵🇪
-- 📊 **Sistemas analíticos** · **desarrollo web** · **transformación digital** de PYMES
-- 🌱 Aprendiendo cada día — abierto a colaborar / *open to collaborate*
-- 📫 [manuelcarbajalbr26@gmail.com](mailto:manuelcarbajalbr26@gmail.com)
+- <img src="https://api.iconify.design/mdi/certificate.svg?color=%235E81AC" width="18" align="center" /> **Bachiller en Ingeniería de Sistemas** — UNHEVAL · *B.Sc. in Systems Engineering*
+- <img src="https://api.iconify.design/mdi/map-marker.svg?color=%235E81AC" width="18" align="center" /> Huánuco, Perú
+- <img src="https://api.iconify.design/mdi/chart-box.svg?color=%235E81AC" width="18" align="center" /> **Sistemas analíticos** · **desarrollo web** · **transformación digital** de PYMES
+- <img src="https://api.iconify.design/mdi/rocket-launch.svg?color=%235E81AC" width="18" align="center" /> Aprendiendo cada día — abierto a colaborar / *open to collaborate*
+- <img src="https://api.iconify.design/mdi/email.svg?color=%235E81AC" width="18" align="center" /> [manuelcarbajalbr26@gmail.com](mailto:manuelcarbajalbr26@gmail.com)
 
 ```bash
 $ whoami
 > Luis Manuel · @SanteRV
-> Systems Engineering Student @ UNHEVAL
+> B.Sc. in Systems Engineering @ UNHEVAL
 > Huánuco, Perú
 ```
 
@@ -64,7 +64,7 @@ $ whoami
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| 🌟 [**Sistemas_analiticos**](https://github.com/SanteRV/Sistemas_analiticos) | Análisis y modelado de datos. | `Python` |
+| <img src="https://api.iconify.design/mdi/star.svg?color=%2388C0D0" width="16" align="center" /> [**Sistemas_analiticos**](https://github.com/SanteRV/Sistemas_analiticos) | Análisis y modelado de datos. | `Python` |
 | [**CONECTA**](https://github.com/SanteRV/CONECTA) | Hackatón AYNI — formalización, tendencias de mercado y transformación digital de MYPES. | `Web` |
 | [**CARDIONET**](https://github.com/SanteRV/CARDIONET) | Detección de problemas cardiacos mediante algoritmos. | `Python` |
 | [**Psico**](https://github.com/SanteRV/Psico) | Proyecto de psicología. | `JavaScript` |
