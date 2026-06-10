@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E81AC,100:88C0D0&height=190&section=header&text=Luis%20Manuel%20%C2%B7%20@SanteRV&fontColor=ffffff&fontSize=40&desc=Systems%20Engineering%20Student%20%40%20UNHEVAL%20%E2%80%94%20Hu%C3%A1nuco,%20Per%C3%BA&descSize=17&descAlignY=64&animation=fadeIn" alt="header" />
 </p>
 
-<!-- ============================ HERO ART ============================ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SanteRV/SanteRV/main/assets/arte-codigo.svg" width="340" alt="arte-codigo" />
-</p>
-
 <!-- ============================ TYPING ============================ -->
 <p align="center">
   <a href="https://github.com/SanteRV">
@@ -15,7 +10,16 @@
   </a>
 </p>
 
-<!-- ============================ INTRO ============================ -->
+<!-- ============================ ABOUT (side-by-side: data left, art right) ============================ -->
+<img align="right" width="300" src="https://raw.githubusercontent.com/SanteRV/SanteRV/main/assets/arte-codigo.svg" alt="arte-codigo" />
+
+### `$ cat about.md`
+
+- 🎓 Estudiante de **Ingeniería de Sistemas** — UNHEVAL · *Systems Engineering student*
+- 📍 Huánuco, Perú 🇵🇪
+- 📊 **Sistemas analíticos** · **desarrollo web** · **transformación digital** de PYMES
+- 🌱 Aprendiendo cada día — abierto a colaborar / *open to collaborate*
+- 📫 [manuelcarbajalbr26@gmail.com](mailto:manuelcarbajalbr26@gmail.com)
 
 ```bash
 $ whoami
@@ -24,14 +28,7 @@ $ whoami
 > Huánuco, Perú
 ```
 
-<!-- ============================ ABOUT ============================ -->
-## `$ cat about.md`
-
-| Sobre mí | About me |
-| :--- | :--- |
-| Estudiante de **Ingeniería de Sistemas** en la Universidad Nacional **Hermilio Valdizán** (Huánuco, Perú). | Systems Engineering student at **Universidad Nacional Hermilio Valdizán** (Huánuco, Peru). |
-| Me interesan los **sistemas analíticos**, el **desarrollo web** y la **transformación digital** de PYMES. | Interested in **analytics systems**, **web development**, and **digital transformation** for SMEs. |
-| Aprendiendo cada día — abierto a colaborar y construir. | Learning every day — open to collaborating and building. |
+<br clear="right" />
 
 <!-- ============================ STACK ============================ -->
 ## `$ ls stack/`
