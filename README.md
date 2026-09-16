@@ -19,6 +19,7 @@
 - <img src="https://api.iconify.design/mdi/map-marker.svg?color=%235E81AC" width="18" align="center" /> Huánuco, Perú
 - <img src="https://api.iconify.design/mdi/chart-box.svg?color=%235E81AC" width="18" align="center" /> **Sistemas analíticos** · **desarrollo web** · **transformación digital** de PYMES
 - <img src="https://api.iconify.design/mdi/rocket-launch.svg?color=%235E81AC" width="18" align="center" /> Aprendiendo cada día — abierto a colaborar / *open to collaborate*
+- <img src="https://api.iconify.design/mdi/web.svg?color=%235E81AC" width="18" align="center" /> Portafolio / *portfolio*: **[santerv.com](https://santerv.com)**
 - <img src="https://api.iconify.design/mdi/email.svg?color=%235E81AC" width="18" align="center" /> [manuelcarbajalbr26@gmail.com](mailto:manuelcarbajalbr26@gmail.com)
 
 ```bash
@@ -55,28 +56,26 @@ $ whoami
   <img height="180" src="https://streak-stats.demolab.com?user=SanteRV&hide_border=true&background=161b22&stroke=5E81AC&ring=88C0D0&fire=88C0D0&currStreakNum=88C0D0&currStreakLabel=5E81AC&sideNums=e6edf3&sideLabels=5E81AC&dates=e6edf3" alt="streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanteRV&bg_color=161b22&color=e6edf3&line=5E81AC&point=88C0D0&area_color=5E81AC&area=true&hide_border=true&radius=8" alt="activity graph" />
-</p>
-
 <!-- ============================ PROJECTS ============================ -->
 ## `$ ls projects/`
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| <img src="https://api.iconify.design/mdi/star.svg?color=%2388C0D0" width="16" align="center" /> [**Sistemas_analiticos**](https://github.com/SanteRV/Sistemas_analiticos) | Análisis y modelado de datos. | `Python` |
-| [**CONECTA**](https://github.com/SanteRV/CONECTA) | Hackatón AYNI — formalización, tendencias de mercado y transformación digital de MYPES. | `Web` |
-| [**CARDIONET**](https://github.com/SanteRV/CARDIONET) | Detección de problemas cardiacos mediante algoritmos. | `Python` |
-| [**Psico**](https://github.com/SanteRV/Psico) | Proyecto de psicología. | `JavaScript` |
-| [**peruvian_web**](https://github.com/SanteRV/peruvian_web) | Desarrollo web con temática peruana. | `HTML` · `CSS` |
-| [**modulador**](https://github.com/SanteRV/modulador) | Interfaz / componente modular en CSS. | `CSS` |
+| <img src="https://api.iconify.design/mdi/web.svg?color=%2388C0D0" width="16" align="center" /> [**Lazar-IA**](https://lazar-ia.vercel.app) | Chaleco con visión artificial que detecta los obstáculos que el bastón no alcanza y avisa por vibración y audio. | `Visión artificial` |
+| <img src="https://api.iconify.design/mdi/web.svg?color=%2388C0D0" width="16" align="center" /> [**CARDIONET**](https://cardionet.santerv.com) | Estima la probabilidad de enfermedad cardíaca con tres modelos que calculan en tu navegador, sin guardar datos. No es un diagnóstico. | `scikit-learn` · `React` |
+| <img src="https://api.iconify.design/mdi/web.svg?color=%2388C0D0" width="16" align="center" /> [**Reto Trivia Huánuco**](https://trivia.santerv.com) | Conquista las once provincias de Huánuco jugando, sobre un mapa hecho con datos geográficos reales. | `React` · `Three.js` · `Cloudflare` |
+| <img src="https://api.iconify.design/mdi/github.svg?color=%2388C0D0" width="16" align="center" /> [**Sistemas_analiticos**](https://github.com/SanteRV/Sistemas_analiticos) | Análisis y modelado de datos. | `Python` |
 
+<sub>➜ <img src="https://api.iconify.design/mdi/web.svg?color=%2388C0D0" width="12" align="center" /> en línea: el nombre abre el sitio (su código no es público) · Ver todos los proyectos en <a href="https://santerv.com/proyectos.html">santerv.com/proyectos.html</a></sub><br />
 <sub>➜ Ver todos los repositorios en <a href="https://github.com/SanteRV?tab=repositories">github.com/SanteRV?tab=repositories</a></sub>
 
 <!-- ============================ CONTACT ============================ -->
 ## `$ echo $EMAIL`
 
 <p>
+  <a href="https://santerv.com">
+    <img src="https://img.shields.io/badge/santerv.com-161b22?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzVFODFBQyIgZD0iTTE2LjM2IDE0Yy4wOC0uNjYuMTQtMS4zMi4xNC0ycy0uMDYtMS4zNC0uMTQtMmgzLjM4Yy4xNi42NC4yNiAxLjMxLjI2IDJzLS4xIDEuMzYtLjI2IDJtLTUuMTUgNS41NmMuNi0xLjExIDEuMDYtMi4zMSAxLjM4LTMuNTZoMi45NWE4LjAzIDguMDMgMCAwIDEtNC4zMyAzLjU2TTE0LjM0IDE0SDkuNjZjLS4xLS42Ni0uMTYtMS4zMi0uMTYtMnMuMDYtMS4zNS4xNi0yaDQuNjhjLjA5LjY1LjE2IDEuMzIuMTYgMnMtLjA3IDEuMzQtLjE2IDJNMTIgMTkuOTZjLS44My0xLjItMS41LTIuNTMtMS45MS0zLjk2aDMuODJjLS40MSAxLjQzLTEuMDggMi43Ni0xLjkxIDMuOTZNOCA4SDUuMDhBNy45MiA3LjkyIDAgMCAxIDkuNCA0LjQ0QzguOCA1LjU1IDguMzUgNi43NSA4IDhtLTIuOTIgOEg4Yy4zNSAxLjI1LjggMi40NSAxLjQgMy41NkE4IDggMCAwIDEgNS4wOCAxNm0tLjgyLTJDNC4xIDEzLjM2IDQgMTIuNjkgNCAxMnMuMS0xLjM2LjI2LTJoMy4zOGMtLjA4LjY2LS4xNCAxLjMyLS4xNCAycy4wNiAxLjM0LjE0IDJNMTIgNC4wM2MuODMgMS4yIDEuNSAyLjU0IDEuOTEgMy45N2gtMy44MmMuNDEtMS40MyAxLjA4LTIuNzcgMS45MS0zLjk3TTE4LjkyIDhoLTIuOTVhMTUuNyAxNS43IDAgMCAwLTEuMzgtMy41NmMxLjg0LjYzIDMuMzcgMS45IDQuMzMgMy41Nk0xMiAyQzYuNDcgMiAyIDYuNSAyIDEyYTEwIDEwIDAgMCAwIDEwIDEwYTEwIDEwIDAgMCAwIDEwLTEwQTEwIDEwIDAgMCAwIDEyIDIiLz48L3N2Zz4%3D" alt="santerv.com" />
+  </a>
   <a href="mailto:manuelcarbajalbr26@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=5E81AC" alt="Gmail" />
   </a>
