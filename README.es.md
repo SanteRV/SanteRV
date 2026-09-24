@@ -63,7 +63,7 @@ $ whoami
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| <img src="https://api.iconify.design/mdi/web.svg?color=%2388C0D0" width="16" align="center" /> [**Lazar-IA**](https://lazar-ia.vercel.app) | Chaleco con visión artificial que detecta los obstáculos que el bastón no alcanza y avisa por vibración y audio. | `Visión artificial` |
+| <img src="https://api.iconify.design/mdi/web.svg?color=%2388C0D0" width="16" align="center" /> [**Lazar-IA**](https://lazar-ia.santerv.com) | Prototipo de chaleco con visión artificial que busca los obstáculos que el bastón no alcanza y avisa a quien lo lleva. | `Visión artificial` |
 | <img src="https://api.iconify.design/mdi/web.svg?color=%2388C0D0" width="16" align="center" /> [**CARDIONET**](https://cardionet.santerv.com) | Estima la probabilidad de enfermedad cardíaca con tres modelos que calculan en tu navegador, sin guardar datos. No es un diagnóstico. | `scikit-learn` · `React` |
 | <img src="https://api.iconify.design/mdi/web.svg?color=%2388C0D0" width="16" align="center" /> [**Reto Trivia Huánuco**](https://trivia.santerv.com) | Conquista las once provincias de Huánuco jugando, sobre un mapa hecho con datos geográficos reales. | `React` · `Three.js` · `Cloudflare` |
 | <img src="https://api.iconify.design/mdi/github.svg?color=%2388C0D0" width="16" align="center" /> [**Sistemas_analiticos**](https://github.com/SanteRV/Sistemas_analiticos) | Análisis y modelado de datos. | `Python` |

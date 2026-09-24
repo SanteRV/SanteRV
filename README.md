@@ -63,7 +63,7 @@ $ whoami
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| <img src="https://api.iconify.design/mdi/web.svg?color=%2388C0D0" width="16" align="center" /> [**Lazar-IA**](https://lazar-ia.vercel.app) | A vest with computer vision that detects the obstacles a white cane can't reach and warns through vibration and audio. | `Computer vision` |
+| <img src="https://api.iconify.design/mdi/web.svg?color=%2388C0D0" width="16" align="center" /> [**Lazar-IA**](https://lazar-ia.santerv.com) | A prototype vest with computer vision that looks for the obstacles a white cane can't reach and warns the wearer. | `Computer vision` |
 | <img src="https://api.iconify.design/mdi/web.svg?color=%2388C0D0" width="16" align="center" /> [**CARDIONET**](https://cardionet.santerv.com) | Estimates the probability of heart disease with three models that run in your browser, without storing any data. It is not a diagnosis. | `scikit-learn` · `React` |
 | <img src="https://api.iconify.design/mdi/web.svg?color=%2388C0D0" width="16" align="center" /> [**Reto Trivia Huánuco**](https://trivia.santerv.com) | Conquer the eleven provinces of Huánuco by playing, on a map built from real geographic data. | `React` · `Three.js` · `Cloudflare` |
 | <img src="https://api.iconify.design/mdi/github.svg?color=%2388C0D0" width="16" align="center" /> [**Sistemas_analiticos**](https://github.com/SanteRV/Sistemas_analiticos) | Data analysis and modeling. | `Python` |
