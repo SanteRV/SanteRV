@@ -9,6 +9,8 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanteRV&theme=github_dark" width="100%" alt="Contribuciones en GitHub durante el último año" />
 
+<img src="https://raw.githubusercontent.com/SanteRV/SanteRV/output/serpiente.svg" width="100%" alt="Una serpiente que recorre el gráfico de contribuciones y se come sus casillas" />
+
 <img src="assets/readme/seccion-4-es.svg" width="100%" alt="04 Contacto" />
 
 <p>
