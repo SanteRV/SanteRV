@@ -1,0 +1,58 @@
+name: Serpiente de contribuciones
+
+# Dibuja cada día la serpiente que se come el gráfico de contribuciones del
+# perfil y la deja sola en la rama «output», para no llenar main con un commit
+# diario. El README la muestra desde esa rama.
+on:
+  schedule:
+    - cron: "17 5 * * *"   # 00:17 en Perú
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/serpiente.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: serpiente
+  cancel-in-progress: true
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      # Fijada al commit de la v3.5.0 (25 abr 2026): una etiqueta se puede mover, un commit no.
+      - uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # Colores del tema oscuro de santerv.com: cuerpo en tinta y casillas del
+          # vacío al acento #7ea0ff, de menos a más contribuciones.
+          outputs: |
+            dist/serpiente.svg?color_snake=#ebebe6&color_dots=#1c1c1b,#22325a,#2f4a8f,#4f73cf,#7ea0ff
+
+      # El README va siempre en oscuro: la serpiente lleva el fondo de los paneles.
+      - name: Poner el fondo oscuro
+        run: |
+          python3 - <<'EOF'
+          import re
+          ruta = 'dist/serpiente.svg'
+          s = open(ruta, encoding='utf-8').read()
+          x, y, w, h = re.search(r'viewBox="([-\d.]+) ([-\d.]+) ([\d.]+) ([\d.]+)"', s).groups()
+          fondo = f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="18" fill="#0f0f0f"/>'
+          i = s.index('>', s.index('<svg')) + 1
+          open(ruta, 'w', encoding='utf-8').write(s[:i] + fondo + s[i:])
+          EOF
+
+      - name: Publicar en la rama output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd dist
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add serpiente.svg
+          git commit -q -m "Serpiente del $(date -u +%F)"
+          git push -q -f "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" output
