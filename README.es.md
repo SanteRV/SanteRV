@@ -1,6 +1,6 @@
 <p align="right"><a href="README.md">English</a> · <b>Español</b></p>
 
-<a href="https://santerv.com"><img src="assets/readme/panel-es.svg" width="100%" alt="Luis Manuel Carbajal Herrera. Sistemas analíticos · Desarrollo web · Transformación digital para pequeñas empresas. Formación: Bachiller en Ingeniería de Sistemas, UNHEVAL. Ubicación: Huánuco, Perú. Enfoque: Sistemas analíticos, desarrollo web y transformación digital para pequeñas empresas. Ahora: Aprendiendo cada día, abierto a colaborar. Tecnologías: Python, JavaScript, TypeScript, Jupyter, HTML5, CSS3, Pandas, NumPy, Git, GitHub, VS Code, Linux." /></a>
+<a href="https://santerv.com"><img src="assets/readme/panel-es.svg" width="100%" alt="Luis Manuel Carbajal Herrera. Sistemas analíticos · Desarrollo web · Transformación digital para pequeñas empresas. Formación: Bachiller en Ingeniería de Sistemas, UNHEVAL. Ubicación: Perú. Enfoque: Sistemas analíticos, desarrollo web y transformación digital para pequeñas empresas. Ahora: Aprendiendo cada día, abierto a colaborar. Tecnologías: Python, JavaScript, TypeScript, Jupyter, HTML5, CSS3, Pandas, NumPy, Git, GitHub, VS Code, Linux." /></a>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SanteRV&locale=es&hide_border=true&border_radius=14&card_height=170&background=0F0F0F&stroke=30302E&ring=7EA0FF&fire=7EA0FF&currStreakNum=EBEBE6&sideNums=EBEBE6&currStreakLabel=7EA0FF&sideLabels=8F8F88&dates=8F8F88" width="49%" alt="Racha de contribuciones en GitHub" />
@@ -19,4 +19,4 @@
 
 <img src="assets/readme/pie.svg" width="100%" alt="santerv.com" />
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=SanteRV&label=Visitas&color=7EA0FF&style=flat-square&labelColor=30302E" width="auto" alt="Visitas" /></p>
+<p align="center"><img src="https://santerv.com/api/github?idioma=es" width="auto" alt="Visitas" /></p>
